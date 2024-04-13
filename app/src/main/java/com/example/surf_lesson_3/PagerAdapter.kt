@@ -19,8 +19,8 @@ class PagerAdapter(
     override fun createFragment(position: Int): Fragment {
         return when (position) {
             0 -> UpcomingFragment()
-            1 -> LaunchesFragment()
-            2 -> RocketsFragment()
+            1 -> LaunchesFragment(context)
+            2 -> RocketsFragment(context)
             else -> throw IllegalStateException("Unexpected position")
         }
     }

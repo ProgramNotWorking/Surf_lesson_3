@@ -4,4 +4,18 @@
     <string name="upcoming">Upcoming</string>
     <string name="launches">Launches</string>
     <string name="rockets">Rockets</string>
+    <string name="launch_title">LAUNCH</string>
+    <string name="rocket_title">ROCKET</string>
+    <string name="stub">STUB!</string>
+
+    <string name="starlink_title">Starlink 2</string>
+    <string name="series_number">CCAES SLC 40</string>
+    <string name="date">16-10-2016</string>
+
+    <string name="launch_date">LAUNCH DATE</string>
+    <string name="ld_desc">Thu Oct 17 5:30:00 2019</string>
+    <string name="launch_site">LAUNCH SITE</string>
+    <string name="ls_desc">Cape Canaveral Air Force Station Space\nLaunch Complex 40</string>
+    <string name="count_down">COUNT DOWN</string>
+    <string name="cd_desc">5 Hrs 30 mins more...</string>
 </resources>
