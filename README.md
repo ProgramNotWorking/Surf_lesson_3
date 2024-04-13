@@ -1,4 +1,3 @@
-<video width="320" height="240" controls>
- <source src="2024-04-13 16-01-29.mkv" type="video/mkv">
- Your browser does not support the video tag.
-</video>
+![image](https://github.com/ProgramNotWorking/Surf_lesson_3/assets/106459487/c0ed5eb4-2833-4066-8f87-b020c55badfe)
+![image](https://github.com/ProgramNotWorking/Surf_lesson_3/assets/106459487/13475273-9149-43e1-a808-0759ee20c15f)
+![image](https://github.com/ProgramNotWorking/Surf_lesson_3/assets/106459487/ac3516c1-54cf-4409-a600-5857dcbd8bde)
